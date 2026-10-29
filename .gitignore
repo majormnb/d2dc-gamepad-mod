@@ -1,0 +1,5 @@
+# Build leftovers
+*.o
+*.obj
+*.log
+/gamepad_mod/Div2Patch.dll
