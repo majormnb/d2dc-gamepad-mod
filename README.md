@@ -8,7 +8,9 @@ trigger clicks, vibration on damage and on load/area-transition start.
 
 ## Install & build
 
-Full guide — [docs/BUILD-AND-INSTALL.md](docs/BUILD-AND-INSTALL.md) (in Russian).
+Full guide — [docs/BUILD-AND-INSTALL.md](docs/BUILD-AND-INSTALL.md)
+(English; Russian version:
+[docs/BUILD-AND-INSTALL.ru.md](docs/BUILD-AND-INSTALL.ru.md)).
 
 - **Prebuilt**: `release/Div2PatchGamepad-vibdamage-load/` —
   `Div2Patch.dll` + `Div2PatchGamepad.ini` + README. Copy into
