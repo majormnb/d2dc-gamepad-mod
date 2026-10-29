@@ -9,7 +9,9 @@
 
 ## Установка и сборка
 
-Полное руководство — [docs/BUILD-AND-INSTALL.md](docs/BUILD-AND-INSTALL.md).
+Полное руководство — [docs/BUILD-AND-INSTALL.ru.md](docs/BUILD-AND-INSTALL.ru.md)
+(русский; английская версия:
+[docs/BUILD-AND-INSTALL.md](docs/BUILD-AND-INSTALL.md)).
 
 - **Готовая сборка**: `release/Div2PatchGamepad-vibdamage-load/` —
   `Div2Patch.dll` + `Div2PatchGamepad.ini` + README. Скопировать в
